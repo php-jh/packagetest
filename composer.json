@@ -15,5 +15,5 @@
             "App\\": "app/",
             "Aex\\Packagetest\\": "src/"
         }
-    },
+    }
 }
